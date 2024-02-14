@@ -1,4 +1,6 @@
 body {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
     margin: 0;
     padding: 0;
 }
@@ -6,7 +8,7 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(https://cs11.pikabu.ru/images/big_size_comm/2019-04_5/1556045187133024130.jpg);
     background-size: cover;
     display: flex;
 }
@@ -75,6 +77,7 @@ section h1 {
     align-items: center;
     justify-content: center;
 }
+
 .section_item {
     height: 10vw;
     margin: 0 4em 4em 4em;
